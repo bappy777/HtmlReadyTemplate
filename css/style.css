@@ -1,0 +1,29 @@
+/* common css start */
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a,
+a:hover,
+a:link,
+a:active {
+    text-decoration: none;
+}
+
+.bg {
+    background: dodgerblue;
+}
+
+/* common css end */
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
